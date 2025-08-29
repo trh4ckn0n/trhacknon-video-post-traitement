@@ -68,18 +68,30 @@ bash mixintro.sh
 ```
 
 Choisir l’intro :
+
+```bash
 1) intros/intro_trhacknon.mp4
 2) intros/intro_demo.mp4
+```
+
 # Entrez le numéro correspondant
 
 Choisir le film :
+
+```bash
 1) movies/Les.Condes.2025.FRENCH.720p.WEB-DL.H264-Slay3R.mkv
 2) movies/AutreFilm.mp4
+```
+
 # Entrez le numéro correspondant
 
 Choisir le mode :
+
+```bash
 1) 2D
 2) 3D
+```
+
 # Entrez le numéro correspondant
 
 ✅ Film final généré : 
