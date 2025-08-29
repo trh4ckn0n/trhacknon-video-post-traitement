@@ -26,6 +26,10 @@ Prérequis :
 
 Utilisation :
 
+```bash
+mkdir -p intros movies output temp
+```
+
 1. Placer vos intros dans le dossier `intros/`  
 2. Placer vos films dans le dossier `movies/`  
 3. Lancer le script :
